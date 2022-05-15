@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/secretProject/static/css/main.aae0c7ed.css",
+    "main.js": "/secretProject/static/js/main.69f59086.js",
+    "static/js/787.6609b868.chunk.js": "/secretProject/static/js/787.6609b868.chunk.js",
+    "static/media/IMG_0425.jpg": "/secretProject/static/media/IMG_0425.699ed02e871530599e03.jpg",
+    "static/media/IMG_0378.jpg": "/secretProject/static/media/IMG_0378.1201007642ad1c7a7afc.jpg",
+    "static/media/IMG_0721.JPG": "/secretProject/static/media/IMG_0721.31f7e4090e2bcf964064.JPG",
+    "static/media/IMG_0431.jpg": "/secretProject/static/media/IMG_0431.6336242d49cce93afc1c.jpg",
+    "static/media/IMG_0564.jpg": "/secretProject/static/media/IMG_0564.bf99fd1f972ce94fcffb.jpg",
+    "static/media/1F4004D8-3153-4DB4-8CBA-CBE74424FD10.jpg": "/secretProject/static/media/1F4004D8-3153-4DB4-8CBA-CBE74424FD10.b61b3debe2b0cb04706f.jpg",
+    "static/media/cake.png": "/secretProject/static/media/cake.d731fae8c80bafa1f97d.png",
+    "index.html": "/secretProject/index.html",
+    "main.aae0c7ed.css.map": "/secretProject/static/css/main.aae0c7ed.css.map",
+    "main.69f59086.js.map": "/secretProject/static/js/main.69f59086.js.map",
+    "787.6609b868.chunk.js.map": "/secretProject/static/js/787.6609b868.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aae0c7ed.css",
+    "static/js/main.69f59086.js"
+  ]
+}
